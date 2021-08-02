@@ -1,4 +1,4 @@
-# crud-api
+# vue-crud-api
 
 ## Project setup
 ```
